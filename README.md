@@ -3,6 +3,8 @@
 This exercise uses an API from Mapbox.com to display a map with the coordinates of MIT in Boston. The button up top will show a bus line and its stops by adding and continously updating a marker. 
 
 
+I am looking to expand on this project by creating a dynamic map that updates to show places I have visited in the past as well as places I would like to visit in the future. Similar to how the marker updates, I am lookin to update the centering of the map to the locations I visited and would like to visit. 
+
 
 MIT License
 
